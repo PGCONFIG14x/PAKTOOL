@@ -10,7 +10,9 @@ pkg install git
 ```
 
 ## Clone this repository
-``````
+`````
+
+````
 pkg install libandroid-wordexp
 ```
 ```
