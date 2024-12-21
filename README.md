@@ -8,9 +8,11 @@ apt update && apt upgrade
 ```
 pkg install git
 ```
+
 ## Clone this repository
 ``````
 pkg install libandroid-wordexp
+```
 ```
 git clone https://github.com/PGCONFIG14x/PGPAKTOOL.git
 ```
