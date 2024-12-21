@@ -1,0 +1,3 @@
+cd $HOME/PAKTOOL
+chmod +x setup2
+./setup2
