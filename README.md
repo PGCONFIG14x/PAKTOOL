@@ -26,7 +26,7 @@ cd PAKTOOL
 chmod +x setup2
 ```
 ```
-bash setup2
+./setup2
 ```
 ## NEXT TIME OPEN TOOL COMMAND
 ```
