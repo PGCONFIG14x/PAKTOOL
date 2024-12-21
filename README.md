@@ -15,9 +15,8 @@ pkg install libandroid-wordexp
 ```
 git clone https://github.com/PGCONFIG14x/PAKTOOL.git
 ```
-```
-pkg install git
-```
+
+
 
 ```
 cd PAKTOOL
