@@ -1,5 +1,3 @@
-1. Install Termux from PlayStore or best from fdroid site
-
 ## Enter This Command:
 ```
 termux-setup-storage
@@ -12,16 +10,23 @@ pkg install git
 ```
 ## Clone this repository
 ```
+'''
+pkg install libandroid-wordexp
+'''''
+
 git clone https://github.com/PGCONFIG14x/PGPAKTOOL.git
 ```
 ```
-cd PGPAKTOOL
+cd PAKTOOL
 ```
 ```
-chmod +x setup
+chmod +x setup2
 ```
 ```
-bash setup
+bash setup2
 ```
 ```
-PGPAKTOOL
+NEXT TIME OPEN TOOL COMMAND
+  { PGPAKTOOL }
+
+TOOL PASSWORD -: PGPAKTOOL
